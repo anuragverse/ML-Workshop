@@ -1,8 +1,13 @@
-# Machine Learning Workshop
 
+# Machine Learning Workshop
 Everything i learned during my ML workshop.
 
-The Following Projects have been done in this repo.
+
+
+
+
+
+## The Following Projects have been done in this repo.
 
 1. Simple Chatbot
 2. Chatbot using GPT-2
@@ -17,12 +22,7 @@ The Following Projects have been done in this repo.
 11. NLP Tokenization,Stopword and Stemming process
 12. Audio Analyzer
 13. Open CV's SIFT and HOG Analysis
-```
+## Feedback
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+If you have any feedback, please reach out to us at codeverse29@gmail.com
 
