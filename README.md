@@ -23,7 +23,8 @@ Everything i learned during my ML workshop.
 12. Audio Analyzer
 13. Open CV's SIFT and HOG Analysis
 14. Data Analysis Using PySpark
-    
+
+    All the Files and Datasets used in the projects is present in the Repo.
 ## Feedback
 
 If you have any feedback, please reach out to us at codeverse29@gmail.com
