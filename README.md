@@ -22,6 +22,8 @@ Everything i learned during my ML workshop.
 11. NLP Tokenization,Stopword and Stemming process
 12. Audio Analyzer
 13. Open CV's SIFT and HOG Analysis
+14. Data Analysis Using PySpark
+    
 ## Feedback
 
 If you have any feedback, please reach out to us at codeverse29@gmail.com
